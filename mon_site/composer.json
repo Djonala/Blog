@@ -1,0 +1,17 @@
+{
+    "name": "superadmin/mon_site",
+    "description": "mon blog",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Johanna TRISTAN",
+            "email": "tristanjohanna@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
